@@ -2,7 +2,7 @@
     "code": 200,
     "message": "OK",
     "data": {
-        "playerId": "EbaloOff",
+        "playerId": "lovely",
         "inventory": [
             {
                 "lastUpdateAt": 1617130798,
@@ -14222,6 +14222,51 @@
             {
                 "lastUpdateAt": 1617191138,
                 "objectId": "Kate_outfit_009",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617191138,
+                "objectId": "BE_Mask012",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617191138,
+                "objectId": "BE_Body012",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617191138,
+                "objectId": "BE_W012",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617191138,
+                "objectId": "DO_Head012",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617191138,
+                "objectId": "DO_Body012",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617191138,
+                "objectId": "DO_W012",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617191138,
+                "objectId": "WI_Hair010",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617191138,
+                "objectId": "WI_Body010",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617191138,
+                "objectId": "WI_W010",
                 "quantity": 1
             },
             {
