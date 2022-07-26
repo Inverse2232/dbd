@@ -2784,79 +2784,814 @@
         },
         "inventory": [
           {
-            "i": "Addon_Flashlight_004,1"
+            "i": "Ace_In_The_Hole,3"
           },
           {
-            "i": "Addon_Key_001,1"
+            "i": "Addon_Flashlight_001,2000"
           },
           {
-            "i": "Addon_Key_002,1"
+            "i": "Addon_Flashlight_002,2000"
           },
           {
-            "i": "Addon_Map_002,1"
+            "i": "Addon_Flashlight_003,2000"
           },
           {
-            "i": "Addon_Map_006,1"
+            "i": "Addon_Flashlight_004,2000"
           },
           {
-            "i": "Addon_Medkit_001,2"
+            "i": "Addon_Flashlight_005,2000"
           },
           {
-            "i": "Addon_Medkit_004,2"
+            "i": "Addon_Flashlight_006,2000"
           },
           {
-            "i": "ADDON_medkit_needleandthread,2"
+            "i": "Addon_Flashlight_007,2000"
           },
           {
-            "i": "Addon_Toolbox_001,2"
+            "i": "Addon_Flashlight_008,2000"
           },
           {
-            "i": "Addon_Toolbox_008,1"
+            "i": "Addon_Flashlight_BrokenBulb,2000"
           },
           {
-            "i": "Adrenaline,1"
+            "i": "ADDON_flashlight_highendsapphire,2000"
           },
           {
-            "i": "ChalkPouch,1"
+            "i": "ADDON_flashlight_intensehalogen,2000"
           },
           {
-            "i": "ClearReagent,1"
+            "i": "ADDON_flashlight_lonflifebattery,2000"
           },
           {
-            "i": "Item_Camper_MedKit,1"
+            "i": "ADDON_flashlight_oddbulb,2000"
           },
           {
-            "i": "Item_Camper_MedKit02,2"
+            "i": "ADDON_flashlight_rubbergrip,2000"
           },
           {
-            "i": "No_One_Left_Behind,1"
+            "i": "Addon_Key_001,2000"
           },
           {
-            "i": "Premonition,1"
+            "i": "Addon_Key_002,2000"
           },
           {
-            "i": "QuickQuiet,1"
+            "i": "Addon_Key_003,2000"
           },
           {
-            "i": "Small_Game,1"
+            "i": "Addon_Key_004,2000"
           },
           {
-            "i": "Sprint_Burst,1"
+            "i": "Addon_Key_005,2000"
           },
           {
-            "i": "SweetWilliamSachet,1"
+            "i": "Addon_Key_006,2000"
           },
           {
-            "i": "This_Is_Not_Happening,2"
+            "i": "Addon_Key_007,2000"
           },
           {
-            "i": "FaintReagent,1"
+            "i": "Addon_Key_008,2000"
           },
           {
-            "i": "Addon_Flashlight_003,1"
+            "i": "Addon_Key_WeddingRing,2000"
           },
           {
-            "i": "CrispleafAmaranthSachet,1"
+            "i": "Addon_Map_001,2000"
+          },
+          {
+            "i": "Addon_Map_002,2000"
+          },
+          {
+            "i": "Addon_Map_003,2000"
+          },
+          {
+            "i": "Addon_Map_004,2000"
+          },
+          {
+            "i": "Addon_Map_005,2000"
+          },
+          {
+            "i": "Addon_Map_006,2000"
+          },
+          {
+            "i": "Addon_Map_007,2000"
+          },
+          {
+            "i": "Addon_Map_008,2000"
+          },
+          {
+            "i": "Addon_Map_009,2000"
+          },
+          {
+            "i": "Addon_Medkit_001,2000"
+          },
+          {
+            "i": "Addon_Medkit_002,2000"
+          },
+          {
+            "i": "Addon_Medkit_003,2000"
+          },
+          {
+            "i": "Addon_Medkit_004,2000"
+          },
+          {
+            "i": "Addon_Medkit_005,2000"
+          },
+          {
+            "i": "Addon_Medkit_006,2000"
+          },
+          {
+            "i": "Addon_Medkit_007,2000"
+          },
+          {
+            "i": "Addon_Medkit_008,2000"
+          },
+          {
+            "i": "ADDON_medkit_abdominaldressing,2000"
+          },
+          {
+            "i": "Addon_Medkit_BlightedSyringe,2000"
+          },
+          {
+            "i": "ADDON_medkit_gauzeroll,2000"
+          },
+          {
+            "i": "ADDON_medkit_needleandthread,2000"
+          },
+          {
+            "i": "ADDON_medkit_selfadherentwrap,2000"
+          },
+          {
+            "i": "ADDON_medkit_surgicalsuture,2000"
+          },
+          {
+            "i": "Addon_Toolbox_001,2000"
+          },
+          {
+            "i": "Addon_Toolbox_002,2000"
+          },
+          {
+            "i": "Addon_Toolbox_003,2000"
+          },
+          {
+            "i": "Addon_Toolbox_004,2000"
+          },
+          {
+            "i": "Addon_Toolbox_005,2000"
+          },
+          {
+            "i": "Addon_Toolbox_006,2000"
+          },
+          {
+            "i": "Addon_Toolbox_007,2000"
+          },
+          {
+            "i": "Addon_Toolbox_008,2000"
+          },
+          {
+            "i": "ADDON_toolbox_cuttingwire,2000"
+          },
+          {
+            "i": "ADDON_toolbox_socketswivels,2000"
+          },
+          {
+            "i": "ADDON_toolbox_springclamp,2000"
+          },
+          {
+            "i": "Adrenaline,3"
+          },
+          {
+            "i": "Aftercare,3"
+          },
+          {
+            "i": "Alert,3"
+          },
+          {
+            "i": "Anniversary2019Offering,2000"
+          },
+          {
+            "i": "Anniversary2020Offering,2000"
+          },
+          {
+            "i": "Anniversary2021Offering,2000"
+          },
+          {
+            "i": "AnnotatedBlueprint,2000"
+          },
+          {
+            "i": "AnyMeansNecessary,3"
+          },
+          {
+            "i": "Autodidact,3"
+          },
+          {
+            "i": "AzarovKey,2000"
+          },
+          {
+            "i": "Babysitter,3"
+          },
+          {
+            "i": "Balanced_Landing,3"
+          },
+          {
+            "i": "BetterTogether,3"
+          },
+          {
+            "i": "BlackSaltStatuette,2000"
+          },
+          {
+            "i": "BloodiedBlueprint,2000"
+          },
+          {
+            "i": "BloodPact,3"
+          },
+          {
+            "i": "BloodyPartyStreamers,2000"
+          },
+          {
+            "i": "BogLaurelSachet,2000"
+          },
+          {
+            "i": "BoilOver,3"
+          },
+          {
+            "i": "Bond,3"
+          },
+          {
+            "i": "BorrowedTime,3"
+          },
+          {
+            "i": "Botany_Knowledge,3"
+          },
+          {
+            "i": "BoundEnvelope,2000"
+          },
+          {
+            "i": "Breakdown,3"
+          },
+          {
+            "i": "Breakout,3"
+          },
+          {
+            "i": "BuckleUp,3"
+          },
+          {
+            "i": "BuiltToLast,3"
+          },
+          {
+            "i": "Calm_Spirit,3"
+          },
+          {
+            "i": "Camaraderie,3"
+          },
+          {
+            "i": "CattleTag28,2000"
+          },
+          {
+            "i": "ChalkPouch,2000"
+          },
+          {
+            "i": "CharredWeddingPhotograph,2000"
+          },
+          {
+            "i": "ChildrensBook,2000"
+          },
+          {
+            "i": "ClearReagent,2000"
+          },
+          {
+            "i": "ColdwindCattleTag81,2000"
+          },
+          {
+            "i": "CreamChalkPouch,2000"
+          },
+          {
+            "i": "CrispleafAmaranthSachet,2000"
+          },
+          {
+            "i": "Dance_with_me,3"
+          },
+          {
+            "i": "Dark_Sense,3"
+          },
+          {
+            "i": "DeadHard,3"
+          },
+          {
+            "i": "DecisiveStrike,3"
+          },
+          {
+            "i": "DecrepitClapboard,2000"
+          },
+          {
+            "i": "Deja_Vu,3"
+          },
+          {
+            "i": "Deliverance,3"
+          },
+          {
+            "i": "DesperateMeasures,3"
+          },
+          {
+            "i": "DetectivesHunch,3"
+          },
+          {
+            "i": "Distortion,3"
+          },
+          {
+            "i": "Diversion,3"
+          },
+          {
+            "i": "EclipseThemeOffering,2000"
+          },
+          {
+            "i": "EmergencyCertificate,2000"
+          },
+          {
+            "i": "Empathy,3"
+          },
+          {
+            "i": "EscapeCake,2000"
+          },
+          {
+            "i": "FaintReagent,2000"
+          },
+          {
+            "i": "Fixated,3"
+          },
+          {
+            "i": "FlipFlop,3"
+          },
+          {
+            "i": "ForThePeople,3"
+          },
+          {
+            "i": "FragrantBogLaurel,2000"
+          },
+          {
+            "i": "FragrantCrispleafAmaranth,2000"
+          },
+          {
+            "i": "FragrantPrimroseBlossom,2000"
+          },
+          {
+            "i": "FragrantSweetWilliam,2000"
+          },
+          {
+            "i": "FreshBogLaurel,2000"
+          },
+          {
+            "i": "FreshCrispleafAmaranth,2000"
+          },
+          {
+            "i": "FreshPrimroseBlossom,2000"
+          },
+          {
+            "i": "FreshSweetWilliam,2000"
+          },
+          {
+            "i": "FumingCordage,2000"
+          },
+          {
+            "i": "FumingWelcomeSign,2000"
+          },
+          {
+            "i": "GranmasCookbook,2000"
+          },
+          {
+            "i": "HalloweenOffering,2000"
+          },
+          {
+            "i": "HarvestFestivalLeaflet,2000"
+          },
+          {
+            "i": "HazyReagent,2000"
+          },
+          {
+            "i": "HeadOn,3"
+          },
+          {
+            "i": "HeartLocket,2000"
+          },
+          {
+            "i": "Hope,3"
+          },
+          {
+            "i": "InnerStrength,3"
+          },
+          {
+            "i": "IonThemeOffering,2000"
+          },
+          {
+            "i": "Iron_Will,3"
+          },
+          {
+            "i": "Item_Camper_AlexsToolbox,2000"
+          },
+          {
+            "i": "Item_Camper_AnniversaryToolbox,2000"
+          },
+          {
+            "i": "Item_Camper_BeigeMap,2000"
+          },
+          {
+            "i": "Item_Camper_BrokenKey,2000"
+          },
+          {
+            "i": "Item_Camper_CommodiousToolbox,2000"
+          },
+          {
+            "i": "Item_Camper_DullKey,2000"
+          },
+          {
+            "i": "Item_Camper_EngineerToolbox,2000"
+          },
+          {
+            "i": "Item_Camper_Firecracker_Anniversary2019,2000"
+          },
+          {
+            "i": "Item_Camper_Firecracker_Chinese,2000"
+          },
+          {
+            "i": "Item_Camper_Firecracker_WinterEvent,2000"
+          },
+          {
+            "i": "Item_Camper_Flashlight,2000"
+          },
+          {
+            "i": "Item_Camper_Flashlight_Anniversary2020,2000"
+          },
+          {
+            "i": "Item_Camper_Flashlight02,2000"
+          },
+          {
+            "i": "Item_Camper_Flashlight03,2000"
+          },
+          {
+            "i": "Item_Camper_Flashlight04,2000"
+          },
+          {
+            "i": "Item_Camper_Key,2000"
+          },
+          {
+            "i": "Item_Camper_LunarToolbox,2000"
+          },
+          {
+            "i": "Item_Camper_MechanicsToolbox,2000"
+          },
+          {
+            "i": "Item_Camper_MedKit,2000"
+          },
+          {
+            "i": "Item_Camper_Medkit_Anniversary2020,2000"
+          },
+          {
+            "i": "Item_Camper_MedKit02,2000"
+          },
+          {
+            "i": "Item_Camper_MedKit03,2000"
+          },
+          {
+            "i": "Item_Camper_MedKit04,2000"
+          },
+          {
+            "i": "Item_Camper_Medkit05,2000"
+          },
+          {
+            "i": "Item_Camper_RainbowMap,2000"
+          },
+          {
+            "i": "Item_Camper_Toolbox,2000"
+          },
+          {
+            "i": "Item_Camper_WornoutToolbox,2000"
+          },
+          {
+            "i": "IvoryChalkPouch,2000"
+          },
+          {
+            "i": "JapaneseCountrySide,2000"
+          },
+          {
+            "i": "Jigsawpiece,2000"
+          },
+          {
+            "i": "KenyaThemeOffering,2000"
+          },
+          {
+            "i": "Kindred,3"
+          },
+          {
+            "i": "Leader,3"
+          },
+          {
+            "i": "LeftBehind,3"
+          },
+          {
+            "i": "Lightweight,3"
+          },
+          {
+            "i": "Lithe,3"
+          },
+          {
+            "i": "LuckyBreak,3"
+          },
+          {
+            "i": "LunacyTicket,2000"
+          },
+          {
+            "i": "MacmillanLedgerPage,2000"
+          },
+          {
+            "i": "MacMillanPhalanxBone,2000"
+          },
+          {
+            "i": "MeteorThemeOffering,2000"
+          },
+          {
+            "i": "MurkyReagent,2000"
+          },
+          {
+            "i": "No_One_Left_Behind,3"
+          },
+          {
+            "i": "NoMither,3"
+          },
+          {
+            "i": "ObjectOfObsession,3"
+          },
+          {
+            "i": "OffTheRecord,3"
+          },
+          {
+            "i": "Open_Handed,3"
+          },
+          {
+            "i": "PaintedRiverRock,2000"
+          },
+          {
+            "i": "PElliotLunacyTicket,2000"
+          },
+          {
+            "i": "PetrifiedOak,2000"
+          },
+          {
+            "i": "Pharmacy,3"
+          },
+          {
+            "i": "Plunderers_Instinct,3"
+          },
+          {
+            "i": "Poised,3"
+          },
+          {
+            "i": "Premonition,3"
+          },
+          {
+            "i": "PrimroseBlossomSachet,2000"
+          },
+          {
+            "i": "Prove_Thyself,3"
+          },
+          {
+            "i": "PsychiatricAssessmentReport,2000"
+          },
+          {
+            "i": "QatarThemeOffering,2000"
+          },
+          {
+            "i": "QuickQuiet,3"
+          },
+          {
+            "i": "RedHerring,3"
+          },
+          {
+            "i": "RepressedAlliance,3"
+          },
+          {
+            "i": "Resilience,3"
+          },
+          {
+            "i": "S24P01,3"
+          },
+          {
+            "i": "S24P02,3"
+          },
+          {
+            "i": "S24P03,3"
+          },
+          {
+            "i": "S25P01,3"
+          },
+          {
+            "i": "S25P02,3"
+          },
+          {
+            "i": "S25P03,3"
+          },
+          {
+            "i": "S26P01,3"
+          },
+          {
+            "i": "S26P02,3"
+          },
+          {
+            "i": "S26P03,3"
+          },
+          {
+            "i": "S27P01,3"
+          },
+          {
+            "i": "S27P02,3"
+          },
+          {
+            "i": "S27P03,3"
+          },
+          {
+            "i": "S28P01,3"
+          },
+          {
+            "i": "S28P02,3"
+          },
+          {
+            "i": "S28P03,3"
+          },
+          {
+            "i": "S29P01,3"
+          },
+          {
+            "i": "S29P02,3"
+          },
+          {
+            "i": "S29P03,3"
+          },
+          {
+            "i": "S30P01,3"
+          },
+          {
+            "i": "S30P02,3"
+          },
+          {
+            "i": "S30P03,3"
+          },
+          {
+            "i": "S31P01,3"
+          },
+          {
+            "i": "S31P01_TEACH_,1"
+          },
+          {
+            "i": "S31P02,3"
+          },
+          {
+            "i": "S31P02_TEACH_,1"
+          },
+          {
+            "i": "S31P03,3"
+          },
+          {
+            "i": "S31P03_TEACH_,1"
+          },
+          {
+            "i": "Saboteur,3"
+          },
+          {
+            "i": "SacrificalWard,2000"
+          },
+          {
+            "i": "SaltPouch,2000"
+          },
+          {
+            "i": "SealedEnvelope,2000"
+          },
+          {
+            "i": "SecondWind,3"
+          },
+          {
+            "i": "Self_Care,3"
+          },
+          {
+            "i": "SelfSufficient,3"
+          },
+          {
+            "i": "ShatteredGlasses,2000"
+          },
+          {
+            "i": "ShinyCoin,2000"
+          },
+          {
+            "i": "ShreddedPlate,2000"
+          },
+          {
+            "i": "ShroudofBinding,2000"
+          },
+          {
+            "i": "ShroudofUnion,2000"
+          },
+          {
+            "i": "SignedLedgerPage,2000"
+          },
+          {
+            "i": "Slippery_Meat,3"
+          },
+          {
+            "i": "Small_Game,3"
+          },
+          {
+            "i": "SoleSurvivor,3"
+          },
+          {
+            "i": "Solidarity,3"
+          },
+          {
+            "i": "SoulGuard,3"
+          },
+          {
+            "i": "Spine_Chill,3"
+          },
+          {
+            "i": "Sprint_Burst,3"
+          },
+          {
+            "i": "StakeOut,3"
+          },
+          {
+            "i": "Streetwise,3"
+          },
+          {
+            "i": "StrodeRealtyKey,2000"
+          },
+          {
+            "i": "SweetWilliamSachet,2000"
+          },
+          {
+            "i": "TarnishedCoin,2000"
+          },
+          {
+            "i": "Technician,3"
+          },
+          {
+            "i": "Tenacity,3"
+          },
+          {
+            "i": "TheLastMask,2000"
+          },
+          {
+            "i": "TheMettleOfMan,3"
+          },
+          {
+            "i": "ThePiedPiper,2000"
+          },
+          {
+            "i": "This_Is_Not_Happening,3"
+          },
+          {
+            "i": "TornBlueprint,2000"
+          },
+          {
+            "i": "UkraineThemeOffering,2000"
+          },
+          {
+            "i": "Up_The_Ante,3"
+          },
+          {
+            "i": "Urban_Evasion,3"
+          },
+          {
+            "i": "Vigil,3"
+          },
+          {
+            "i": "VigosBlueprint,2000"
+          },
+          {
+            "i": "VigosJarOfSaltyLips,2000"
+          },
+          {
+            "i": "VigosShroud,2000"
+          },
+          {
+            "i": "VirginiaPlate,2000"
+          },
+          {
+            "i": "Visionary,3"
+          },
+          {
+            "i": "WakeUp,3"
+          },
+          {
+            "i": "WalesThemeOffering,2000"
+          },
+          {
+            "i": "WellMakeIt,3"
+          },
+          {
+            "i": "WereGonnaLiveForever,3"
+          },
+          {
+            "i": "WhiteWard,2000"
+          },
+          {
+            "i": "WindowsOfOpportunity,3"
           }
         ],
         "currentCustomization": [
