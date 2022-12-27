@@ -3,8 +3,8 @@
     "updatedWallets": [],
     "characterName": "",
     "bloodWebLevel": 50,
-    "prestigeLevel": 9,
-    "legacyPrestigeLevel": 3,
+    "prestigeLevel": 8,
+    "legacyPrestigeLevel": 0,
     "bloodWebData": {
         "paths": [],
         "ringData": [
@@ -869,6 +869,30 @@
         },
         {
             "itemId": "S33P03",
+            "quantity": 3
+        },
+        {
+            "itemId": "S34P01",
+            "quantity": 3
+        },
+        {
+            "itemId": "S34P02",
+            "quantity": 3
+        },
+        {
+            "itemId": "S34P03",
+            "quantity": 3
+        },
+        {
+            "itemId": "K30P01",
+            "quantity": 3
+        },
+        {
+            "itemId": "K30P02",
+            "quantity": 3
+        },
+        {
+            "itemId": "K30P03",
             "quantity": 3
         },
         {
@@ -3420,6 +3444,86 @@
             "quantity": 50
         },
         {
+            "itemId": "Addon_K30_01",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_02",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_03",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_04",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_05",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_06",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_07",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_08",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_09",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_10",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_11",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_12",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_13",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_14",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_15",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_16",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_17",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_18",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_19",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K30_20",
+            "quantity": 50
+        },
+        {
             "itemId": "ArdentTanagerWreath",
             "quantity": 50
         },
@@ -3753,6 +3857,10 @@
         },
         {
             "itemId": "Anniversary2022Offering",
+            "quantity": 50
+        },
+        {
+            "itemId": "QuantumThemeOffering",
             "quantity": 50
         },
         {
