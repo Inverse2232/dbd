@@ -1,8 +1,8 @@
 {
-    "bloodWebLevelChanged": false,
+    "bloodWebLevelChanged": true,
     "updatedWallets": [],
     "characterName": "",
-    "bloodWebLevel": 50,
+    "bloodWebLevel": 51,
     "prestigeLevel": 8,
     "legacyPrestigeLevel": 0,
     "bloodWebData": {
@@ -893,6 +893,42 @@
         },
         {
             "itemId": "K30P03",
+            "quantity": 3
+        },
+        {
+            "itemId": "S35P01",
+            "quantity": 3
+        },
+        {
+            "itemId": "S35P02",
+            "quantity": 3
+        },
+        {
+            "itemId": "S35P03",
+            "quantity": 3
+        },
+        {
+            "itemId": "K31P01",
+            "quantity": 3
+        },
+        {
+            "itemId": "K31P02",
+            "quantity": 3
+        },
+        {
+            "itemId": "K31P03",
+            "quantity": 3
+        },
+        {
+            "itemId": "S36P01",
+            "quantity": 3
+        },
+        {
+            "itemId": "S36P02",
+            "quantity": 3
+        },
+        {
+            "itemId": "S36P03",
             "quantity": 3
         },
         {
@@ -3521,6 +3557,86 @@
         },
         {
             "itemId": "Addon_K30_20",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_01",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_02",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_03",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_04",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_05",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_06",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_07",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_08",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_09",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_10",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_11",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_12",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_13",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_14",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_15",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_16",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_17",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_18",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_19",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K31_20",
             "quantity": 50
         },
         {
