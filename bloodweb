@@ -932,6 +932,30 @@
             "quantity": 3
         },
         {
+            "itemId": "S37P01",
+            "quantity": 3
+        },
+        {
+            "itemId": "S37P02",
+            "quantity": 3
+        },
+        {
+            "itemId": "S37P03",
+            "quantity": 3
+        },
+        {
+            "itemId": "K32P01",
+            "quantity": 3
+        },
+        {
+            "itemId": "K32P02",
+            "quantity": 3
+        },
+        {
+            "itemId": "K32P03",
+            "quantity": 3
+        },
+        {
             "itemId": "Addon_DreamInducer_BlackBox",
             "quantity": 50
         },
@@ -3640,6 +3664,86 @@
             "quantity": 50
         },
         {
+            "itemId": "Addon_K32_01",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_02",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_03",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_04",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_05",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_06",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_07",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_08",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_09",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_10",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_11",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_12",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_13",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_14",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_15",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_16",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_17",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_18",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_19",
+            "quantity": 50
+        },
+        {
+            "itemId": "Addon_K32_20",
+            "quantity": 50
+        },
+        {
             "itemId": "ArdentTanagerWreath",
             "quantity": 50
         },
@@ -3977,6 +4081,10 @@
         },
         {
             "itemId": "QuantumThemeOffering",
+            "quantity": 50
+        },
+        {
+            "itemId": "UmbraThemeOffering",
             "quantity": 50
         },
         {
