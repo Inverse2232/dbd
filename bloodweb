@@ -1,9 +1,9 @@
 {
-  "BloodwebLevelChanged": false,
+  "BloodwebLevelChanged": True,
   "UpdatedWallets": [],
   "CharacterName": "",
-  "BloodwebLevel": 50,
-  "PrestigeLevel": 52,
+  "BloodwebLevel": 1,
+  "PrestigeLevel": 0,
   "BloodWebData": {
     "Paths": [],
     "RingData": [
@@ -12,7 +12,7 @@
           {
             "ContentId": "",
             "NodeId": 0,
-            "State": "Collected"
+            "State": "Uncollected"
           }
         ]
       }
